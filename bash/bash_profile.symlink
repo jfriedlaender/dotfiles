@@ -7,5 +7,3 @@ export PATH=~/bin:/usr/local/bin:$PATH
 if [ -f ~/.environment_variables ]; then
   source ~/.environment_variables
 fi
-
-
