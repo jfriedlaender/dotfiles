@@ -3,6 +3,7 @@
 sudo -v
 
 brew bundle --file=~/src/dotfiles/Brewfile
+brew services start --all
 
 bash ~/src/dotfiles/.macos
 
