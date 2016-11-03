@@ -4,7 +4,7 @@ sudo -v
 
 brew bundle --file=~/src/dotfiles/Brewfile
 
-bash ~/src/dotfiles/.osx
+bash ~/src/dotfiles/.macos
 
 ln -sf ~/src/dotfiles/.gitconfig ~/.gitconfig
 ln -sf ~/src/dotfiles/.gitignore ~/.gitignore
