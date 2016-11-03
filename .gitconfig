@@ -1,0 +1,13 @@
+[hub]
+  protocol = https
+
+[core]
+  excludesfile = ~/.gitignore
+  editor = atom --wait
+
+[user]
+  name = Joel Friedlaender
+  email = joel@redguava.com.au
+
+[push]
+  default = simple
