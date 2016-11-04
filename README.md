@@ -18,4 +18,4 @@ Run dotfiles setup
 bash ~/src/dotfiles/setup
 ```
 
-Restart Mac OS
+Restart macOS
