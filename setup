@@ -11,7 +11,6 @@ ln -sf ~/src/dotfiles/.gitconfig ~/.gitconfig
 ln -sf ~/src/dotfiles/.gitignore ~/.gitignore
 ln -sf ~/src/dotfiles/config.fish ~/.config/fish/config.fish
 ln -sf ~/src/dotfiles/bundler-config ~/.bundle/config
-ln -sf ~/src/dotfiles/atom-config.cson ~/.atom/config.cson
 ln -sf ~/src/dotfiles/.gemrc ~/.gemrc
 
 if [[ $(dscl . -read /Users/`id -un`/ UserShell) =~ .*fish$ ]];
