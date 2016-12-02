@@ -20,5 +20,7 @@ cask 'google-chrome'
 cask 'iterm2'
 cask 'skype'
 cask 'slack'
+cask 'polymail'
+cask 'cloak'
 
 tap 'homebrew/services'
