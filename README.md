@@ -19,3 +19,5 @@ bash ~/src/dotfiles/setup
 ```
 
 Restart macOS
+
+(My dotfiles were based off https://github.com/johncolvin/dotfiles)
