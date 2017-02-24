@@ -14,7 +14,7 @@ Enter location/name of key
 
 Add the key to keychain
 ```
-ssh-add -k ~/.ssh/github_rsa
+ssh-add -K ~/.ssh/github_rsa
 ```
 
 
